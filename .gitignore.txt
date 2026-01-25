@@ -1,0 +1,4 @@
+*.pbix
+*.xlsx
+*.csv
+__pycache__/
