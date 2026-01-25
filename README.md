@@ -103,8 +103,9 @@ Ecommerce-BI-Suite/
 │
 └── report/
     ├── E-Commerce_BI_Final_Report.pdf
-    └── E-Commerce_BI_Final_Report.docx
-▶️ How to Run the Python Script
+    └── E-Commerce_BI_Final_Report.doc
+```
+##▶️ How to Run the Python Script
 ✅ Requirements
 
 Install dependencies:
