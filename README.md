@@ -105,61 +105,40 @@ Ecommerce-BI-Suite/
     ├── E-Commerce_BI_Final_Report.pdf
     └── E-Commerce_BI_Final_Report.doc
 ```
+---
 ##▶️ How to Run the Python Script
 ✅ Requirements
-
 Install dependencies:
-
 pip install pandas matplotlib
-
-✅ Run Script
-
+---
+##✅ Run Script
 Go to the python folder and run:
-
 python eda_automation.py
-
-✅ Outputs Generated
-
+---
+##✅ Outputs Generated
 cleaned_ecommerce_master.csv
-
 monthly_revenue_python.csv
-
 monthly_revenue_trend.png
-
-📌 Power BI Dashboard Features
-
+---
+##📌 Power BI Dashboard Features
 The Power BI report includes:
-
 KPI Cards (Revenue, Orders, Customers, Delivered, AOV)
-
 Revenue Trend (monthly/yearly)
-
 Revenue by Product Category
-
 Orders by Customer State
-
 Revenue Share by Payment Type
-
 Slicers for filtering:
-
-Year
-
-Month
-
-Customer State
-
-Category
-
-Payment Type
-
-Order Status
-
-📄 Final Report
-
+1.Year
+2.Month
+3.Customer State
+4.Category
+5.Payment Type
+6.Order Status
+---
+##📄 Final Report
 The complete business report is available in:
-
 report/E-Commerce_BI_Final_Report.pdf
-
-👤 Author
-
+--
+##👤 Author
 Prateek Singh
+---
