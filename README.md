@@ -106,6 +106,6 @@ Ecommerce-BI-Suite/
     └── E-Commerce_BI_Final_Report.doc
 ```
 ---
-##👤 Author
+👤 Author
 ---
--Prateek Singh
+Prateek Singh
