@@ -69,8 +69,6 @@ This project covers the complete BI workflow:
 ## 📸 Power BI Dashboard Preview
 ![Dashboard Preview](powerbi/Screenshot%202026-01-25%20162258.png)
 
-✅ *(Tip: If image doesn’t load, rename the file to `powerbi_dashboard_screenshot.png` and update the path accordingly.)*
-
 ---
 
 ## 📁 Project Folder Structure
